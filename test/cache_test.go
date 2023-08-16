@@ -6,7 +6,7 @@ import (
 	_ "github.com/joy12825/gf/contrib/nosql/redis"
 	"github.com/joy12825/gf/database/gredis"
 	"github.com/joy12825/gf/frame/g"
-	"github.com/tiger1103/gfast-cache/cache"
+	"github.com/joy12825/joy-cache/cache"
 	"testing"
 )
 

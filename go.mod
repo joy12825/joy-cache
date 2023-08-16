@@ -1,4 +1,4 @@
-module github.com/tiger1103/gfast-cache
+module github.com/joy12825/joy-cache
 
 go 1.18
 

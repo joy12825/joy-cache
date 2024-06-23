@@ -3,9 +3,9 @@ package test
 import (
 	"context"
 	"fmt"
-	_ "github.com/joy12825/gf/contrib/nosql/redis"
-	"github.com/joy12825/gf/database/gredis"
-	"github.com/joy12825/gf/frame/g"
+	_ "github.com/joy12825/gf/contrib/nosql/redis/v2"
+	"github.com/joy12825/gf/v2/database/gredis"
+	"github.com/joy12825/gf/v2/frame/g"
 	"github.com/joy12825/joy-cache/cache"
 	"testing"
 )

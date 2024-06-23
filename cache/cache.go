@@ -2,11 +2,11 @@ package cache
 
 import (
 	"context"
-	"github.com/joy12825/gf/container/gvar"
-	"github.com/joy12825/gf/encoding/gjson"
-	"github.com/joy12825/gf/frame/g"
-	"github.com/joy12825/gf/os/gcache"
-	"github.com/joy12825/gf/util/gconv"
+	"github.com/joy12825/gf/v2/container/gvar"
+	"github.com/joy12825/gf/v2/encoding/gjson"
+	"github.com/joy12825/gf/v2/frame/g"
+	"github.com/joy12825/gf/v2/os/gcache"
+	"github.com/joy12825/gf/v2/util/gconv"
 	"reflect"
 	"sync"
 	"time"

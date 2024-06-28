@@ -1,10 +1,10 @@
 module github.com/joy12825/joy-cache
 
-go 1.18
+go 1.20
 
 require (
-	github.com/joy12825/gf/contrib/nosql/redis/v2 v2.7.2
-	github.com/joy12825/gf/v2 v2.7.2
+	github.com/joy12825/gf/contrib/nosql/redis/v2 v2.7.5
+	github.com/joy12825/gf/v2 v2.7.5
 )
 
 require (
